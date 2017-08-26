@@ -1,0 +1,5 @@
+#!/bin/bash
+
+LF=$(pwd)/$1
+
+cp $(echo ~)/Insync/workspace/latexinit/texfiles/standard.tex $LF
